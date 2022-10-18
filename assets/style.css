@@ -1,0 +1,16 @@
+.nscc-style {
+      color: #ffffff;
+    }
+
+ img {
+      width: 300px;
+    }
+
+.navbar-style {
+	background:linear-gradient(to top, #000099 0%, #3399ff 95%);
+}
+.navbar-style2 {
+	background-color: #00004d ;
+    color: white;
+    font-weight: bold;
+}

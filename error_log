@@ -1,0 +1,39 @@
+[08-Apr-2022 03:36:33 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u8152743/public_html/presensi/config.php on line 3
+[08-Apr-2022 03:36:33 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/u8152743/public_html/presensi/config.php on line 11
+[08-Apr-2022 03:36:33 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u8152743/public_html/presensi/configlk.php on line 3
+[08-Apr-2022 03:36:33 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/u8152743/public_html/presensi/configlk.php on line 11
+[08-Apr-2022 03:42:25 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/u8152743/public_html/presensi/configlk.php on line 3
+[08-Apr-2022 03:42:25 UTC] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, bool given in /home/u8152743/public_html/presensi/configlk.php on line 11
+[02-Jul-2022 20:19:38 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/u8152743/public_html/presensi_c2/index.php on line 130
+[02-Jul-2022 20:19:40 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/u8152743/public_html/presensi_c2/index.php on line 130
+[02-Jul-2022 20:22:33 Asia/Singapore] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, bool given in /home/u8152743/public_html/presensi_c2/index.php on line 130
+[02-Jul-2022 20:22:33 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/u8152743/public_html/presensi_c2/index.php on line 131
+[02-Jul-2022 20:22:34 Asia/Singapore] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, bool given in /home/u8152743/public_html/presensi_c2/index.php on line 130
+[02-Jul-2022 20:22:34 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/u8152743/public_html/presensi_c2/index.php on line 131
+[02-Jul-2022 20:57:21 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/u8152743/public_html/presensi_c2/index.php on line 130
+[02-Jul-2022 20:57:21 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/u8152743/public_html/presensi_c2/index.php on line 130
+[02-Jul-2022 20:57:21 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/u8152743/public_html/presensi_c2/index.php on line 130
+[02-Jul-2022 20:57:21 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/u8152743/public_html/presensi_c2/index.php on line 130
+[02-Jul-2022 20:57:21 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/u8152743/public_html/presensi_c2/index.php on line 130
+[02-Jul-2022 20:57:21 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/u8152743/public_html/presensi_c2/index.php on line 130
+[02-Jul-2022 20:57:21 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/u8152743/public_html/presensi_c2/index.php on line 130
+[02-Jul-2022 20:57:21 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/u8152743/public_html/presensi_c2/index.php on line 130
+[02-Jul-2022 20:57:21 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/u8152743/public_html/presensi_c2/index.php on line 130
+[04-Jul-2022 10:02:03 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/u8152743/public_html/presensi_c2/index.php on line 130
+[04-Jul-2022 10:02:04 Asia/Singapore] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/u8152743/public_html/presensi_c2/index.php on line 130
+[04-Jul-2022 15:22:14 Asia/Singapore] PHP Notice:  Undefined variable: stmt in /home/u8152743/public_html/presensi_c2/index.php on line 138
+[04-Jul-2022 15:22:14 Asia/Singapore] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home/u8152743/public_html/presensi_c2/index.php:138
+Stack trace:
+#0 {main}
+  thrown in /home/u8152743/public_html/presensi_c2/index.php on line 138
+[04-Jul-2022 15:22:41 Asia/Singapore] PHP Notice:  Undefined variable: querylk in /home/u8152743/public_html/presensi_c2/index.php on line 152
+[04-Jul-2022 15:22:41 Asia/Singapore] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/u8152743/public_html/presensi_c2/index.php on line 152
+[04-Jul-2022 15:22:45 Asia/Singapore] PHP Notice:  Undefined variable: querylk in /home/u8152743/public_html/presensi_c2/index.php on line 152
+[04-Jul-2022 15:22:45 Asia/Singapore] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/u8152743/public_html/presensi_c2/index.php on line 152
+[04-Jul-2022 15:22:46 Asia/Singapore] PHP Notice:  Undefined variable: querylk in /home/u8152743/public_html/presensi_c2/index.php on line 152
+[04-Jul-2022 15:22:46 Asia/Singapore] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/u8152743/public_html/presensi_c2/index.php on line 152
+[04-Jul-2022 15:25:32 Asia/Singapore] PHP Notice:  Undefined variable: querylk in /home/u8152743/public_html/presensi_c2/index.php on line 152
+[04-Jul-2022 15:25:32 Asia/Singapore] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/u8152743/public_html/presensi_c2/index.php on line 152
+[04-Jul-2022 15:25:47 Asia/Singapore] PHP Notice:  Undefined variable: querylk in /home/u8152743/public_html/presensi_c2/index.php on line 152
+[04-Jul-2022 15:25:47 Asia/Singapore] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/u8152743/public_html/presensi_c2/index.php on line 152
+[04-Jul-2022 15:29:59 Asia/Singapore] PHP Notice:  Undefined variable: email in /home/u8152743/public_html/presensi_c2/index.php on line 155
